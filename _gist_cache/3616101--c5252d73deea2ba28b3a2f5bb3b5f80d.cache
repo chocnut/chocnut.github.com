@@ -1,0 +1,29 @@
+<?php
+
+require_once('When.php');
+
+$_POST['weekly'] = true;
+//array('MO','TU','WE','TH','FR','SA','SU')
+$repeat_days = $_POST['selected_days'];
+$repeat_type = isset($_POST['weekly']) ?: $_POST['monthly'];
+
+$start = new DateTime();
+//e.g 01/01/2013
+$end = $_POST['end_date']; 
+
+if($repeat_type == 'monthly') {
+  $end = $start->modify('+'. $_POST['no_of_months] .'month');
+}
+
+$w = new When();
+
+$w->recur($start, $repeat_type)
+  ->until($end)
+  ->byday($repeat_days);
+                
+while ($result = $w->next()) {
+  $dates = $result->format("Y-m-d H:i:s");                  
+}
+
+var_dump($dates);
+?>
