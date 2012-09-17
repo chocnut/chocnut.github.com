@@ -11,7 +11,7 @@ I have this problem that I need to split the page content by paragraphs. Good th
 
 <script src="https://gist.github.com/3735394.js"> </script>
 
-So as you can see in the above code snippet, the Paragraph function takes an argument of paragraph number and return the content to be display in the template and Oh don't forget to setup your _config.php so that it will override the Text class.
+So as you can see in the above code snippet, the Paragraph function takes an argument of paragraph number and return the content to be display in the template. Oh, don't forget to setup your _config.php so that it will override the Text class.
 
 <script src="https://gist.github.com/3735628.js"> </script>
 
