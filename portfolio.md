@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: about/
+title: Portfolio
+permalink: portfolio/
 profile: true
 ---
 
