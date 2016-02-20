@@ -8,7 +8,7 @@ highlighter: pygments
 # paginate: 20
 baseurl: /
 domain_name: 'http://pindiola.me'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-74100318-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
