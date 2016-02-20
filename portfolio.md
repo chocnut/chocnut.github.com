@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 permalink: portfolio/
-profile: true
+profile: false
 ---
 
 This is a static page. It could be an 'about page' if you'd like.
