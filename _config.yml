@@ -3,14 +3,14 @@ description: Hi, I'm Peter Indiola you found my site!
 meta_description: "This site where I post everything I think worth sharing"
 aboutPage: true
 markdown: redcarpet
-highlighter: pygments
+# highlighter: pygments
 
 # paginate: 20
 baseurl: /
 domain_name: 'http://pindiola.me'
 google_analytics: 'UA-74100318-1'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus: true
+disqus_shortname: 'pindiolame.disqus.com'
 
 # Details for the RSS feed generator
 url:            'http://pindiola.me'
