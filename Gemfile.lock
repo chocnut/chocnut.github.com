@@ -42,6 +42,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-pagination
+  kramdown
   pygments.rb
   redcarpet
 
