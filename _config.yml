@@ -1,11 +1,13 @@
-name: Peter Indiola - Front-end, Ruby on Rails and iOS Developer based in the Philippines.
+name: Peter Indiola - React, React Native, Ruby on Rails and iOS Developer based in the Philippines.
 description: Experiment. Fail. Learn. Repeat.
 meta_description: "This site where I post everything I think worth sharing"
 aboutPage: true
 markdown: kramdown
+gems: [jekyll-paginate]
 # highlighter: pygments
 
-# paginate: 20
+paginate: 20
+paginator_path: "/blog/page:num/"
 baseurl: /
 domain_name: 'http://peterindiola.com'
 google_analytics: 'UA-78775804-1'

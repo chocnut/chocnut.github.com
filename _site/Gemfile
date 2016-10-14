@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'jekyll-pagination'
+gem 'jekyll-paginate'
 gem 'pygments.rb'
 gem 'redcarpet'
 gem 'kramdown'

@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Peter Indiola - Front-end, Ruby on Rails and iOS Developer based in the Philippines.</title>
+    <title>Peter Indiola - React, React Native, Ruby on Rails and iOS Developer based in the Philippines.</title>
     <description>Experiment. Fail. Learn. Repeat.</description>
     <link>http://peterindiola.com</link>
     <atom:link href="http://peterindiola.com/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        
-        
-          <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 10 Nov 2013 18:18:00 +0800</pubDate>
-        <link>http://peterindiola.com/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://peterindiola.com/2013/welcome-to-jekyll/</guid>
-      </item>
     
   </channel>
 </rss>
