@@ -3,12 +3,14 @@ description: Experiment. Fail. Learn. Repeat.
 meta_description: "This site where I post everything I think worth sharing"
 aboutPage: true
 markdown: kramdown
-gems: [jekyll-paginate]
+gems:
+  - jekyll-seo-tag
+  - jekyll-paginate
 # highlighter: pygments
 
 paginate: 20
 paginator_path: "/blog/page:num/"
-baseurl: /
+baseurl:
 domain_name: 'http://peterindiola.com'
 google_analytics: 'UA-78775804-1'
 disqus: true
