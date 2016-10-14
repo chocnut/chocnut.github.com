@@ -6,6 +6,7 @@ markdown: kramdown
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 # highlighter: pygments
 
 paginate: 20
