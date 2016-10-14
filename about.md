@@ -3,7 +3,7 @@ layout: default
 profile: false
 title: About
 description: About - Peter Indiola ReactJS, React Native, JavaScript, Ruby on Rails and Front-end developer from the Philippines.
-image: image/avatar.png
+image: /assets/images/avatar.png
 ---
 
 I am a Software Engineer with strong Front-end and Back-end skills with 10 years of experience with web technologies.
