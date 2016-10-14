@@ -17,7 +17,7 @@ baseurl:
 domain_name: 'http://peterindiola.com'
 google_analytics: 'UA-78775804-1'
 disqus: true
-disqus_shortname: 'pindiolame.disqus.com'
+disqus_shortname: 'peterindiola'
 
 # Details for the RSS feed generator
 url:            'http://peterindiola.com'
