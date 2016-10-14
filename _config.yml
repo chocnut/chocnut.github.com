@@ -7,6 +7,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-redirect-from
 # highlighter: pygments
 
 paginate: 20
