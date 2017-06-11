@@ -13,7 +13,7 @@ I'm always using [CTRL-P](https://github.com/kien/ctrlp.vim) plugin for fuzzy fi
 noremap <C-P> :FZF<CR>
 ```
 Using CTRL+P as FZF in action
-![FZF command in action](http://127.0.0.1:4000/assets/images/fzf-vid.gif)
+![FZF command in action]({{ site.url }}/assets/images/fzf-vid.gif)
 
 P.S additional fzf config for layout and to not search what's in your `.gitignore`
 
