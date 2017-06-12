@@ -14,13 +14,13 @@ gems:
 paginate: 20
 paginator_path: "/blog/page:num/"
 baseurl:
-domain_name: 'http://peterindiola.com'
+domain_name: 'https://peterindiola.com'
 google_analytics: 'UA-78775804-1'
 disqus: true
 disqus_shortname: 'peterindiola'
 
 # Details for the RSS feed generator
-url:            'http://peterindiola.com'
+url:            'https://peterindiola.com'
 author:         'Peter Indiola'
 authorTwitter:  'PeterIndiola'
 
