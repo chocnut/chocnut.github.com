@@ -6,7 +6,7 @@ description: About - Peter Indiola ReactJS, React Native, JavaScript, Ruby on Ra
 image: /assets/images/avatar.png
 ---
 
-I am a Software Engineer with strong Front-end and Back-end skills with 10 years of experience with web technologies.
+Is a Software Engineer with strong Front-end and Back-end skills with 10 years of experience with web technologies.
 
 Have a look at some of my working [projects](/portfolio/).
 
