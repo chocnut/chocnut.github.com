@@ -17,3 +17,5 @@ url = "https://www.linkedin.com/in/peterindiola/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:pindiola@gmail.com"
+
+googleAnalytics = "UA-78775804-1"
