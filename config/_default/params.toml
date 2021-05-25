@@ -1,0 +1,19 @@
+title = "I'm Peter Indiola"
+author = "Peter Indiola"
+description = ""
+profilePicture = "images/profile.jpeg"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/choctnut/"
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/peterindiola/"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:pindiola@gmail.com"
